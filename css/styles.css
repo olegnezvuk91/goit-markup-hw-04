@@ -311,6 +311,9 @@ button {
 .social-link:hover {
   background-color: #404bbf;
 }
+.social-icon {
+  fill: #f4f4fd;
+}
 
 /* our portfolio */
 .portfolio {
@@ -449,4 +452,7 @@ button {
 .footer-social-link:hover,
 .footer-social-link:focus {
   background-color: #31d0aa;
+}
+.footer-icon {
+  fill: #f4f4fd;
 }
