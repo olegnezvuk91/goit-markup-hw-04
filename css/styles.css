@@ -433,11 +433,13 @@ button {
   color: #fff;
   margin-bottom: 16px;
 }
-.footer-social-item {
-}
+
 .footer-social-list {
   display: flex;
   gap: 16px;
+}
+.footer-icon {
+  fill: #f4f4fd;
 }
 .footer-social-link {
   width: 40px;
@@ -452,7 +454,4 @@ button {
 .footer-social-link:hover,
 .footer-social-link:focus {
   background-color: #31d0aa;
-}
-.footer-icon {
-  fill: #f4f4fd;
 }
